@@ -7,6 +7,7 @@ The script goes through an example map that plots the number of ER admissions fo
 
 ### Caveats
 The map legend is kind of crude, because tinkering with it was a second order concern when I wrote this script.
+ZIP shape files were too large to uploaded in the example data folder. I recommend using TIGER/Line shape files published by the U.S. Census Bureau (<https://www.census.gov/geo/maps-data/data/tiger-line.html>)
 
 ### Future work
 Though this repo is ostensibly about the heat map capabilities, the motivation for this project came from wanting to visualize markers of public health (e.g. levels of smoking, alcoholism, Medicaid recipients, lead poisoning, asthma) and see where clusters of public health problems arose, and whether certain areas whose demographics/characteristics (larger presence of marginalized ethnic groups or lower average socioeconomic status) seemed to be over or underperforming what statistical analyses on these health outcomes would predict for the area.
